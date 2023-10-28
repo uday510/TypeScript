@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Compile TypeScript using tsc
-tsc 
+tsc
 
 # Check if the compilation was successful
 if [ $? -eq 0 ]; then
